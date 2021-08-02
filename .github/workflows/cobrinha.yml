@@ -2,7 +2,7 @@ name: Generate Data
 
 on:
   schedule:
-    - cron: '*/5 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
