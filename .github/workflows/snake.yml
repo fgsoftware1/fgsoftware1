@@ -1,0 +1,20 @@
+name: snake
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        id: snake-gif
+        uses: Platane/snk@master
+        with:
+          github_user_name: fgsoftware1
+          gif_out_path: dist/github-contribution-grid-snake.gif
+      - name: ensure the generated file exists
+        run: |
+            ls -l ${{ steps.snake-gif.outputs.gif_out_path }}
+            test -f ${{ steps.snake-gif.outputs.gif_out_path }}
