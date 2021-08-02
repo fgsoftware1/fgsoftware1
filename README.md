@@ -1,4 +1,4 @@
-(https://img.shields.io/badge/paypal-donate-yellow?style=flat-square&logo=Paypal)
+![](https://img.shields.io/badge/paypal-donate-yellow?style=flat-square&logo=Paypal)
 
 (https://paypal.me/fgsoftwarestudio?locale.x=pt_PT)
 
