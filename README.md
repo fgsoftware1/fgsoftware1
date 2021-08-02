@@ -9,4 +9,4 @@
 </div>
 
 ##
-![Snake animation](https://github.com/fgsoftware1/fgsoftware1/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/fgsoftware1/fgsoftware1/blob/output/github-contribution-grid-snake.svg)
