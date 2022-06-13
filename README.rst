@@ -1,4 +1,5 @@
 |image0|
+|image1|
 
 .. raw:: html
 
@@ -11,8 +12,11 @@
 .. _section-0:
 
 |Snake animation|
-
+   
 .. |image0| image:: https://img.shields.io/badge/paypal-donate-yellow?style=flat-square&logo=Paypal
    :target: https://paypal.me/fgsoftwarestudio
-.. |Snake animation| image:: https://github.com/fgsoftware1/fgsoftware1/blob/output/github-contribution-grid-snake.svg
 
+.. |image1| image:: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DAnonymousPT%26type%3Dpatrons&style=flat-square
+   :target: https://www.patreon.com/anonymouspt
+   
+.. |Snake animation| image:: https://github.com/fgsoftware1/fgsoftware1/blob/output/github-contribution-grid-snake.svg
