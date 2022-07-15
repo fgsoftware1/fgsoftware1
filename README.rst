@@ -20,5 +20,3 @@
    :target: https://www.patreon.com/anonymouspt
    
 .. |Snake animation| image:: https://github.com/fgsoftware1/fgsoftware1/blob/output/github-contribution-grid-snake.svg
-
-.. |Metrics| image:: https://metrics.lecoq.io/fgsoftware1?template=classic&base.indepth=false&base.hireable=false&config.timezone=UTC
