@@ -1,5 +1,4 @@
 |image0|
-|image1|
 
 .. raw:: html
 
