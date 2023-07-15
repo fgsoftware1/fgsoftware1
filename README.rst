@@ -12,7 +12,4 @@
 
 |Snake animation|
    
-.. |image0| image:: https://img.shields.io/badge/paypal-donate-yellow?style=flat-square&logo=Paypal
-   :target: https://paypal.me/fgsoftwarestudio
-   
 .. |Snake animation| image:: https://github.com/fgsoftware1/fgsoftware1/blob/output/github-contribution-grid-snake.svg
