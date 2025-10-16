@@ -1,5 +1,5 @@
-|profile| 
-|snake|
+|langs| 
+|commits|
 
-.. |profile| image:: github-metrics.svg
-.. |snake| image:: https://github.com/fgsoftware1/fgsoftware1/blob/output/github-snake-dark.svg
+.. |langs| image:: github-metrics.svg
+.. |commits| image:: metrics.plugin.isocalendar.svg
